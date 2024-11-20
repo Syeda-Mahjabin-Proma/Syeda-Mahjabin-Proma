@@ -36,8 +36,8 @@
 </div>
 <br>
 <h2 align="center"> My Status</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Syeda-Mahjabin-Proma&row=1&column=4&margin-w=15&margin-h=15&theme=onedark" alt="Syeda-Mahjabin-Proma" /></a></p>
-<section align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Syeda-Mahjabin-Proma&show_icons=true&locale=en&card_width=250&theme=dracula"height="150"alt="syeda-mahjabin-Proma"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syeda-Mahjabin-Proma&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=6&theme=dracula"  height="150" alt="languages graph"/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Syeda-Mahjabin-Proma&card_width=350&card_height=150&theme=dracula" height="150" alt="GitHub Streak" /></a>
+<section align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Syeda-Mahjabin-Proma&show_icons=true&locale=en&card_width=350&theme=dracula"height="150"alt="syeda-mahjabin-Proma"/> &ensp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syeda-Mahjabin-Proma&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=dracula"  height="150" alt="languages graph"/>
+  <br><br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Syeda-Mahjabin-Proma&card_width=700&card_height=150&theme=dracula" height="150" alt="GitHub Streak" /></a>
