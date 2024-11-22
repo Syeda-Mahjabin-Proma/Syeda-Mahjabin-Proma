@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋! My name is Syeda Mahjabin Proma and I'm a Computer Engineer, from Bangladesh</h2>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/IpDHXOa1ytAAAAAd/a-nimals-working.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/1re8tSKaslIAAAAi/peach-cat-goma.gif"  />
 <h3>Language Proficiency:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
