@@ -38,5 +38,4 @@
 <section align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Syeda-Mahjabin-Proma&show_icons=true&locale=en&card_width=350&theme=nightowl"height="150"alt="syeda-mahjabin-Proma"/> &ensp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syeda-Mahjabin-Proma&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=nightowl"  height="150" alt="languages graph"/>
-  <br><br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Syeda-Mahjabin-Proma&card_width=700&card_height=150&theme=nightowl" height="150" alt="GitHub Streak" /></a>
+  
