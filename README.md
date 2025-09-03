@@ -25,6 +25,8 @@
 </div>
 <h3>Reach Me At:</h3>
 <div align="left">
+  <a href="https://wa.me/8801688726039">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"/></a>
   <a  href="mailto:syedamahjabinproma@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
   <a href="https://www.linkedin.com/in/syedamahjabinproma28/?originalSubdomain=bd">
