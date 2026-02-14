@@ -35,9 +35,4 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
   <a href="https://www.instagram.com/__.__gungun__.__/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 </div>
-<br>
-<h2 align="center"> My Status</h2>
-<section align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Syeda-Mahjabin-Proma&show_icons=true&locale=en&card_width=350&theme=nightowl"height="150"alt="syeda-mahjabin-Proma"/> &ensp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syeda-Mahjabin-Proma&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=nightowl"  height="150" alt="languages graph"/>
   
